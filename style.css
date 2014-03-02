@@ -60,6 +60,9 @@ body {
     display: inline-block;
     margin: -2px;
 }
+.menu li span a {
+    color: #2ab5ba;
+}
 .menu li a {
     display: inline-block;
     padding: 20px;
